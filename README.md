@@ -1,7 +1,7 @@
-# ControlU 9:30AM
+# ControlU
 
-
-Ingeneria de Software
+9:30 am
 Ingenieria de Software
 
 Santiago Canel
+Universidad Mariano Galvez
